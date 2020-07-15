@@ -1,3 +1,4 @@
 [submodule "NamedLuaIde"]
 	path = NamedLuaIde
 	url = git@github.com:hsu2017/luaide-lite.git
+	branch = master
